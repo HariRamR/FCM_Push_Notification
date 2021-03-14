@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM Push Notification</string>
+    <string name="default_notification_channel_id">com.hari</string>
+</resources>

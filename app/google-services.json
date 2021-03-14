@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8700573687",
+    "project_id": "fcm-push-notification-7f1f7",
+    "storage_bucket": "fcm-push-notification-7f1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8700573687:android:c643dfc6316f00967760f2",
+        "android_client_info": {
+          "package_name": "com.hari.fcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8700573687-gc1h00lssp99p6pk99q0ba1m4rrqnjk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIsPyxoBbA7tiqnsEv9VaimbubDmcy6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8700573687-gc1h00lssp99p6pk99q0ba1m4rrqnjk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
